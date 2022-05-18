@@ -6,17 +6,10 @@
         xmlns:local="clr-namespace:Sakklepesek"
         mc:Ignorable="d"
         Title="Sakklépések – Mihály Réka" Height="500" Width="400">
-    <Grid>
-        <ComboBox VerticalAlignment="Top" Height="123">
-            <CheckBox x:Name="kiralyno" Content="Királynő"/>
-            <CheckBox x:Name="huszar" Content="Huszár"/>
-            <CheckBox x:Name="Bastya" Content="Bástya"/>
-            <CheckBox x:Name="vilGyalog" Content="Világos gyalog"/>
-            <CheckBox x:Name="futo" Content="Futo"/>
-            <CheckBox x:Name="kiraly" Content="Király"/>
-            <CheckBox x:Name="sotGyalog" Content="Sötét gyalog"/>
+    <Grid x:Name="ablak">
+        <ComboBox x:Name="babuk" VerticalAlignment="Top" Height="87">
+            
         </ComboBox>
-        <TextBox x:Name="helyzet_" Height="23" TextWrapping="Wrap" VerticalAlignment="Bottom"/>
 
     </Grid>
 </Window>

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\Sakklepesek.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\App.g.cs
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\Sakklepesek_MarkupCompile.cache
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\Sakklepesek_MarkupCompile.lref
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\bin\Debug\Sakklepesek.exe.config
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\bin\Debug\Sakklepesek.exe
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\bin\Debug\Sakklepesek.pdb
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\Sakklepesek.g.resources
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\Sakklepesek.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\Sakklepesek.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\Sakklepesek.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\Sakklepesek.exe
+C:\Users\User\Documents\GitHub\Sakklepesek_MihalyReka\Sakklepesek\Sakklepesek\obj\Debug\Sakklepesek.pdb
