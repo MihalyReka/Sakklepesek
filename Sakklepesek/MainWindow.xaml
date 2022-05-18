@@ -16,6 +16,7 @@
             <CheckBox x:Name="kiraly" Content="Király"/>
             <CheckBox x:Name="sotGyalog" Content="Sötét gyalog"/>
         </ComboBox>
+        <TextBox x:Name="helyzet_" Height="23" TextWrapping="Wrap" VerticalAlignment="Bottom"/>
 
     </Grid>
 </Window>
