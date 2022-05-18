@@ -1,0 +1,21 @@
+﻿<Window x:Class="Sakklepesek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sakklepesek"
+        mc:Ignorable="d"
+        Title="Sakklépések – Mihály Réka" Height="500" Width="400">
+    <Grid>
+        <ComboBox VerticalAlignment="Top" Height="123">
+            <CheckBox x:Name="kiralyno" Content="Királynő"/>
+            <CheckBox x:Name="huszar" Content="Huszár"/>
+            <CheckBox x:Name="Bastya" Content="Bástya"/>
+            <CheckBox x:Name="vilGyalog" Content="Világos gyalog"/>
+            <CheckBox x:Name="futo" Content="Futo"/>
+            <CheckBox x:Name="kiraly" Content="Király"/>
+            <CheckBox x:Name="sotGyalog" Content="Sötét gyalog"/>
+        </ComboBox>
+
+    </Grid>
+</Window>
