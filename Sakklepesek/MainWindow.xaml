@@ -8,8 +8,9 @@
         Title="Sakklépések – Mihály Réka" Height="500" Width="400">
     <Grid x:Name="ablak">
         <ComboBox x:Name="babuk" VerticalAlignment="Top" Height="87">
-            
+
         </ComboBox>
+        <Grid x:Name="tabla" Height="300" Width="300" VerticalAlignment="Top" Margin="50,130,50,20"/>
 
     </Grid>
 </Window>

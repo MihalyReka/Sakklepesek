@@ -94,5 +94,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Képek\bastya.jpg" />
+    <Resource Include="Képek\futo.png" />
+    <Resource Include="Képek\huszar.png" />
+    <Resource Include="Képek\kiraly.png" />
+    <Resource Include="Képek\kiralyno.png" />
+    <Resource Include="Képek\sGyalog.png" />
+    <Resource Include="Képek\vGyalog.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
