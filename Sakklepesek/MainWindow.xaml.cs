@@ -22,9 +22,7 @@ namespace Sakklepesek
     {
         
         Rectangle[,] tablaMezoi;
-        char betuKorbeOldal;
-
-        int akty;
+        
 
         public MainWindow()
         {
